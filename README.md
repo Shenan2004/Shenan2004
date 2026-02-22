@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 📄 Know about my experiences [Undergraduate](Undergraduate)
+- 📄 Computer Science undergraduate with pasion in AI
 
 - ⚡ Fun fact **I can laugh**
 
